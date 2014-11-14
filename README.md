@@ -1,4 +1,4 @@
-typography_2
+Typography 2
 ============
 
 Assignment 11. This reference also serves as the exercise files for my course, so you can download the exercise files from this repo as well.
