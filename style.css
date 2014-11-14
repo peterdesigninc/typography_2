@@ -453,6 +453,13 @@ h2		{
 		padding: 30px;
 		}
 		
+h3, h4, h5		{
+		font-family: 'Arvo', serif;
+		line-height: 150%;
+		color: #787573;
+		border-top: 2px solid #FEA50D;
+		padding: 30px;
+		}	
 
 blockquote	{
         border-bottom: 4px solid #CE5800;
@@ -524,7 +531,7 @@ a:active {
 		width: 600px;
 		height: 300px;
 		background: linear-gradient(90deg, #f8f3ee, white);
-		border-top: 2px solid black;
+		border-top: 2px solid #787573;
 		font-family: 'Arvo', serif;
 		font-weight: bold;
 		font-size: 80%;
