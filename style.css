@@ -441,28 +441,28 @@ h1		{
 		font-family: 'Arvo', serif;
 		font-size: 350%;
 		line-height: 125%;
-		color: #CE5800;
+		color: black;
 		padding: 30px;
 		}
 		
 h2		{
 		font-family: 'Arvo', serif;
 		line-height: 150%;
-		color: #787573;
-		border-top: 2px solid #FEA50D;
+		color: #ef4f37;
+		border-top: 2px solid #ef4f37;
 		padding: 30px;
 		}
 		
 h3, h4, h5		{
 		font-family: 'Arvo', serif;
 		line-height: 150%;
-		color: #787573;
-		border-top: 2px solid #FEA50D;
+		color: #ef4f37;
+		border-top: 2px solid #ef4f37;
 		padding: 30px;
 		}	
 
 blockquote	{
-        border-bottom: 4px solid #CE5800;
+        border-bottom: 4px solid #eb7400;
         background-color: black;
         padding: 5px 20px;
         color: white;
@@ -504,7 +504,7 @@ b.feet, i.feet	{
        
 a:link 	{
     	text-decoration: none;
-    	color: #F1613A;
+    	color: #af1201;
 		}
 
 a:visited	{
@@ -513,7 +513,7 @@ a:visited	{
 		}
 		
 a:hover	{
-        color: #EA0000;
+        color: #ef4f37;
        	}
        	
 a:active {
@@ -531,7 +531,7 @@ a:active {
 		width: 600px;
 		height: 300px;
 		background: linear-gradient(90deg, #f8f3ee, white);
-		border-top: 2px solid #787573;
+		border-top: 2px solid #ef4f37;
 		font-family: 'Arvo', serif;
 		font-weight: bold;
 		font-size: 80%;
